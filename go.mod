@@ -1,5 +1,5 @@
 
-module github.com/eddywm/go-shortner
+module github.com/schelik/go-shortner
 
 go 1.18
 
