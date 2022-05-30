@@ -1,7 +1,7 @@
 # URL Shortner
 <p>Created url shortner APIs using Golang, Gin & Redis. It also returns the original long url if the short url is provided.</p>
 <p>Frameworks/Libraries: Golang, Redis, Docker<br />
-Tools/Technologies: Gin, SHA256 hashing, Base58 encoding</p>
+Tools/Technologies: Gin, SHA256, Base58</p>
 
 <h2>Implementation</h2>
 <li>The mapping between the original Url and the generated short Url is stored in Redis</li>
