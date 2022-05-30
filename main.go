@@ -24,7 +24,7 @@ func main() {
 		handler.HandleShortUrlRedirect(c)
 	})
 
-	// Note store initialization happens here
+
 	store.InitializeStore()
 
 	err := r.Run(":9808")
